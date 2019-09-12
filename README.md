@@ -1,2 +1,4 @@
 # PasswordGenerate
+
+Generate strong passwords
  
